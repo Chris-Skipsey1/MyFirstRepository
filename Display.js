@@ -19,3 +19,5 @@ export default class Display {
       console.log(`[${this.name}] Total is ${this.total}`);
     }
   }
+
+  //This is a test 
